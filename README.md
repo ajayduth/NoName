@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A social media web app with basic functionalities (10% twitter:))
 
-## `Install Packages`
+### `Install Packages`
 
 npm install
 
